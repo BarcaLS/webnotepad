@@ -1,2 +1,2 @@
 # webnotepad
-Simple PHP TODO list with desktop / mobile version and automatic backup.
+<p>Simple PHP TODO list with desktop / mobile version and automatic backup.</p>
