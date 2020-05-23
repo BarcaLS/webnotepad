@@ -1,0 +1,11 @@
+.frame { text-align: center; vertical-align: middle; margin: 0.5% auto;
+          padding: 0.5%; width: 90%; background-color: inherit;
+	  position: relative; border: 2px dashed grey; color: white;
+	  font-size: 90%; font-family: sans-serif; }
+a { color: white; text-decoration: none; }
+a:hover { color: gray; }
+body  { height: 100%; width: 100%; margin: 0; border: 0; background: #2A2E2A; }
+p { text-align: center; color: white; font-size: 90%; font-family: sans-serif; }
+table { border-width: 0px; border-spacing: 10px; }
+td { border: 0px; padding: 0px; border: none; }
+textarea { border: none; color: white; background-color: transparent; font-size: 100%; width: 100%; }
